@@ -20,7 +20,7 @@
 1. Use the assigned addressing block: 192.168.42.0/24
 2. Design an appropriate network topology and device arrangement.
 3. Configure the required routers, switches, end devices, and network services.
-4. Implement VLAN Trunking using IEEE 802.1Q across switches.
+4. Implement VLAN Trunking using 802.1Q across switches.
 5. Verify communication between appropriate network nodes.
 6. Accommodate the client's physical design constraint:
    - The organization rents part of the building — shared risers, no civil works allowed.
