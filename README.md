@@ -9,3 +9,7 @@
 - Client ID: CLI-096
 - Organization: Provincial Treasury District Office (Vryburg)
 - Industry: Government
+
+## Client Background
+
+- The assigned client is the Provincial Treasury District Office in Vryburg, operating within the government sector, the network design must remain specific to the assigned client scenario and must satisfy the requirements provided in the official project brief.
