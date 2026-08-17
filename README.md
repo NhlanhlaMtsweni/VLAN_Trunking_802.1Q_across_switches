@@ -27,9 +27,11 @@
 7. Integrate CR15, which requires a second Internet connection for network resilience.
 8. Test and document the completed solution.
 
-## Network
-## IP addressing
-## Topology
+## Network Design
+## IP addressing Plan
+## Topologies
+ - Physical Topology
+ - Logical Topology
 ## Packet Tracer
 ## Configuration
 ## Testing
