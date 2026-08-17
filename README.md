@@ -26,3 +26,11 @@
    - The organization rents part of the building — shared risers, no civil works allowed.
 7. Integrate CR15, which requires a second Internet connection for network resilience.
 8. Test and document the completed solution.
+
+## Network
+## IP addressing
+## Topology
+## Packet Tracer
+## Configuration
+## Testing
+## Screenshots
