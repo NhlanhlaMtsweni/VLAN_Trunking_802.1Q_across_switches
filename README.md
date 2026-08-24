@@ -32,9 +32,10 @@
 ## Topologies
  - Physical Topology
 
+ - Logical Topology
+
 ![alt text](<Project documentation/Network Design/CMPG.png>)
 
- - Logical Topology
 ## Packet Tracer
 ## Configuration
 ## Testing
