@@ -31,6 +31,9 @@
 ## IP addressing Plan
 ## Topologies
  - Physical Topology
+
+![alt text](<Project documentation/Network Design/CMPG.png>)
+
  - Logical Topology
 ## Packet Tracer
 ## Configuration
